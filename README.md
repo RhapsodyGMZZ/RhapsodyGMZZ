@@ -7,10 +7,12 @@ You can contact me with any of theses social platforms. <br/> <br/>
 <a href="www.linkedin.com/in/nicolas-legay-b11103293">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
 </a>
-<h3>Send me an email ! </h3>
 <a href="mailto:legaynicolas76190@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
 </a>
+<br/> <br/>
+
+
 ## Skills
 #### DevOps (currently learning the tools to take part to the party)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
