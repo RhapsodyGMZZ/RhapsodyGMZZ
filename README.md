@@ -12,6 +12,12 @@ You can contact me with any of theses social platforms. <br/> <br/>
 </a>
 <br/> <br/>
 
+### Stats
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhapsodyGMZZ&theme=apprentice) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhapsodyGMZZ&theme=apprentice)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhapsodyGMZZ&theme=apprentice&utcOffset=8) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RhapsodyGMZZ&theme=apprentice) 
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RhapsodyGMZZ&theme=apprentice) 
 
 ## Skills
 #### DevOps (currently learning the tools to take part to the party)
