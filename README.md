@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=07F750&width=1000&lines=Hello+I'm+RhapsodyGMZZ+click+here+to+see+my+Portfolio+!)](https://nicolas-legay.fr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=07F750&width=1000&height=200&lines=Hello+I'm+RhapsodyGMZZ%2C;+click+here+to+see+my+Portfolio+!)](https://nicolas-legay.fr)
 
 # Who am I ?
 I'm a 22 years old student who's studying to be a fullstack developer, i found that it was my passion a year and half ago, and since then, i work hard to be able to learn everything and do everything.
