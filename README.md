@@ -4,10 +4,10 @@
 I'm a 22 years old student who's studying to be a fullstack developer, i found that it was my passion a year and half ago, and since then, i work hard to be able to learn everything and do everything.
 ### Socials 
 You can contact me with any of theses social platforms. <br/> <br/>
-<a href="www.linkedin.com/in/nicolas-legay-b11103293">
+<a href="https://www.linkedin.com/in/nicolas-legay-b11103293" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
 </a>
-<a href="mailto:legaynicolas76190@gmail.com">
+<a href="mailto:legaynicolas76190@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
 </a>
 <br/> <br/>
